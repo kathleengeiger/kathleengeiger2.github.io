@@ -4,7 +4,6 @@ title: "Marriage Therapy - Couples Counseling"
 excerpt: "Marriage Therapy - Couples Counseling"
 author_profile: true
 redirect_from: 
-  - /marriage.html
   - /lpc/therapy-for-adults/marriage-therapy-couples-counseling
 ---
 
