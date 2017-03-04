@@ -7,7 +7,7 @@ redirect_from:
   - /lpc/therapy-for-adults/marriage-therapy-couples-counseling
 ---
 
-##Who can benefit from marriage counseling?
+## Who can benefit from marriage counseling?
 
 Most marriages and other relationships aren’t perfect. Each person brings his or her own ideas, values, opinions and personal history into a relationship, and they don’t always match their partner’s. Those differences don’t necessarily mean your relationship is bound for conflict. To the contrary, differences can be complementary — you know the saying about opposites attracting. These differences can also help people understand, respect and accept opposing views and cultures.
 
