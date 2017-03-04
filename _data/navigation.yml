@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Individual/Family Therapy"
+  - title: "Marriage/Couples Therapy"
+    url: /marriage/
+    
+  - title: "Individual Therapy"
     url: /individual/
     
   - title: "Child Therapy"
-    url: /child/
+    url: /children/
 
   - title: "Contact"
     url: /contact/
