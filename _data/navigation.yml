@@ -3,9 +3,6 @@ main:
 
   - title: "Contact"
     url: /contact/
-
-  - title: "Home"
-    url: /
     
   - title: "Marriage/Couples Therapy"
     url: /marriage/
@@ -16,4 +13,6 @@ main:
   - title: "Child Therapy"
     url: /children/
 
+  - title: "Home"
+    url: /
 
