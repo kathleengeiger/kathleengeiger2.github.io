@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
   - /lpc/
 ---
-## I'm Kathleen Geiger
-
 I’m a licensed psychotherapist in Waco, Texas. I’ve been Licensed by the Texas State Board of Licensed Professional Counselors since 1990, have been in private practice for close to 25 years, and worked in psychiatric hospitals prior to opening my own office.
 
 I work with children in play therapy and cognitive behavioral therapy, and I enjoy working with teenagers and adults in various methods of counseling practice. Working with parents to help resolve behavioral and emotional problems with their children is also major part of my practice.
