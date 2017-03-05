@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Contact"
+    url: /contact/
+
   - title: "Home"
     url: /
     
@@ -13,6 +16,4 @@ main:
   - title: "Child Therapy"
     url: /children/
 
-  - title: "Contact"
-    url: /contact/
 
