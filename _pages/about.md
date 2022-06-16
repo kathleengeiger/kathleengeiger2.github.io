@@ -18,4 +18,4 @@ In addition to my graduate school training I am also trained as a Somatic Therap
 
 This is an exciting era in the world of psychotherapy treatment and I look forward to the ways we continue to work with the brain science and research to treat emotional difficulties and mental disorders.
 
-Certified as a Somatic Experiencing Practictioner since 2018.[Somatic Psychotherapy](https://traumahealing.org).
+Certified as a Somatic Experiencing Practictioner [Somatic Psychotherapy](https://traumahealing.org).
