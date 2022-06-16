@@ -17,3 +17,5 @@ I also work with diagnosis and treatment of Major Depression, Anxiety, Eating Di
 In addition to my graduate school training I am also trained as a Somatic Therapy Practitioner and am trained in [Pia Mellody’s Post Induction Therapy](http://www.healingtraumanetwork.net/About.aspx) and am a “Pia Trained” therapist.  The treatment modality used to treat Borderline Personality Disorder is Dialectical Behavioral Therapy, developed by Marsha Linehan.  These and other details of my work is explained on this website.
 
 This is an exciting era in the world of psychotherapy treatment and I look forward to the ways we continue to work with the brain science and research to treat emotional difficulties and mental disorders.
+
+Certified as a Somatic Experiencing Practictioner since 2018.  See link for more information about (Somatic Psychotherapy)[https://traumahealing.org].
